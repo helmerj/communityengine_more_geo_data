@@ -1,4 +1,4 @@
-# Information obtained from http://www.europa-auf-einen-blick.de/finnland/regionen.php
+# Information obtained from http://en.wikipedia.org/wiki/Czech_republic#Regions_and_districts
 # created by Juergen Helmers <juergen.helmers@gmail.com>
 
 class AddCzechGeoData < ActiveRecord::Migration
